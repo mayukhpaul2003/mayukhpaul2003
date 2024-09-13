@@ -24,6 +24,6 @@
 <h2 align="center"> Thanks for visiting my portfolio. Hope you like it!</h2>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
-0 comments on commit 8ed18d9
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
